@@ -1,0 +1,17 @@
+{
+  "name": "Plataforma de Performance Musical Competitiva",
+  "short_name": "Music Arena",
+  "description": "MVP para cadastro de musicas e envio de performances.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

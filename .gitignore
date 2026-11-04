@@ -1,0 +1,9 @@
+.DS_Store
+.env
+backend/.env
+backend/vendor
+backend/storage/*.key
+frontend/.env*.local
+frontend/.next
+frontend/node_modules
+infra/postgres-data
